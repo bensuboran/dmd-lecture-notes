@@ -8,7 +8,8 @@ Besides it has an strategic role to how you sell, market your product.
 Describe two visual metaphors, which are commonly used to indicate spatial organisation e.g. directionality, 
 proximity, orientation.
 
- 
+As stairs - the place where you decide to go either up or down
+using compass - where rotation is important
 
 
 
