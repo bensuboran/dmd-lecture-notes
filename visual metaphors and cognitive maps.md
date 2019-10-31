@@ -27,7 +27,7 @@ the aim of visual metaphor is to provide knwoledge or information about how to i
 Include a screen-shot of your Device Location programming workshop exercise.
 
 
-![pizza-image](https://www.thekitchn.com/easy-everyday-pizza-dough-that-is-gluten-free-255421)
+![alt text](file:///Users/s5087062/Desktop/Screenshot%202019-10-31%20at%2015.02.57.png)
 
 
 
