@@ -28,11 +28,8 @@ the aim of visual metaphor is to provide knwoledge or information about how to i
 Include a screen-shot of your Device Location programming workshop exercise.
 
 
-![alt text](file:///Users/s5087062/Desktop/Screenshot%202019-10-31%20at%2015.02.57.png)
 
-
-
-
+![alt text](file:///Users/bensu/Desktop/Ekran%20Resmi%202019-11-04%2017.12.45.png)
 
 
 
@@ -40,7 +37,7 @@ Describe one aspect of what you found interesting or surprising about what you p
 (refer to specific line-numbers where relevant).
 
 
-
+The interesting thing that i found from this is when we change the location it's automatically changes the time. so it's just make things to easier to find.
 
 
 
